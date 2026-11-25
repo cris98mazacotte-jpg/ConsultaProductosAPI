@@ -2,7 +2,7 @@
 
 ## Descripción
 
-El objetivo es implementar consultas avanzadas utilizando LINQ y Entity Framework Core para buscar productos cuyo precio sea superior a un importe determinado y ordenar los resultados de menor a mayor precio.
+El objetivo es implementar consultas utilizando LINQ y Entity Framework Core para buscar productos cuyo precio sea superior a un importe determinado y ordenar los resultados de menor a mayor precio.
 
 ## Tecnologías utilizadas
 
