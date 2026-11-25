@@ -1,0 +1,21 @@
+﻿
+# Carpetas de compilacion
+bin/
+obj/
+
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Resultados de pruebas
+TestResults/
+
+# Configuraciones locales
+.vscode/
+.idea/
