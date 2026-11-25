@@ -2,8 +2,6 @@
 
 ## Descripción
 
-Proyecto desarrollado para la materia **Programación Orientada por Eventos Avanzada - Visual Basic**, de la carrera Ingeniería en Informática.
-
 El objetivo es implementar consultas avanzadas utilizando LINQ y Entity Framework Core para buscar productos cuyo precio sea superior a un importe determinado y ordenar los resultados de menor a mayor precio.
 
 ## Tecnologías utilizadas
